@@ -9,7 +9,10 @@ https://data.kk.dk/dataset/parkeringspladser/resource/b1d84794-8262-4fd9-9346-db
 data set
 http://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101:p_pladser&outputFormat=csv&SRSNAME=EPSG:4326
 
+header 
 
+FID,vejkode,vejnavn,antal_pladser,restriktion,vejstatus,vejside,bydel,p_ordning,p_type,rettelsedato,oprettelsesdato,bemaerkning,id,
+taelle_id,startdato_midlertidigt_nedlagt,slutdato_midlertidigt_nedlagt,wkb_geometry
 
 
 1 find all p-pladers i Indre By
@@ -22,6 +25,8 @@ http://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&t
 
 5 hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
 
-6 plot antalet af p-pladser per by-del 
+6 plot hvilken by-del er der flest privat p-pladser 
 
-7 plot hvilken by-del er der flest privat p-pladser 
+7 plot alle p-pladser, der er nedlagt
+
+8 plot vejstatus som komunevej og hvor mange der har rettedato 2016-03-29 og bemarkinger  
