@@ -3,7 +3,14 @@ Datasættet viser lovlige parkeringspladser i dagtimerne (7-18) på gadeplan (p�
 
 https://data.kk.dk/dataset/parkeringspladser
 
+donlowder filen til computeren
 https://data.kk.dk/dataset/parkeringspladser/resource/b1d84794-8262-4fd9-9346-db7bedcc0c8f
+
+data set
+http://wfs-kbhkort.kk.dk/k101/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=k101:p_pladser&outputFormat=csv&SRSNAME=EPSG:4326
+
+
+
 
 1 find all p-pladers i Indre By
 
