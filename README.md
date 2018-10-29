@@ -19,14 +19,12 @@ taelle_id,startdato_midlertidigt_nedlagt,slutdato_midlertidigt_nedlagt,wkb_geome
 
 2 hvor mange Privat p-pladers er der i alt 
 
-3 hvilken p-plads har flest p-plader
+3 find all p-pladers der har oprettelsesdato 2015 10 -29 eller sener 
 
-4 find all p-pladers der har oprettelsesdato 2015 10 -29 eller sener 
+4 hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
 
-5 hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
+5 plot hvilken by-del er der flest privat p-pladser 
 
-6 plot hvilken by-del er der flest privat p-pladser 
+6 plot alle p-pladser, der er nedlagt
 
-7 plot alle p-pladser, der er nedlagt
-
-8 plot vejstatus som komunevej og hvor mange der har rettedato 2016-03-29 og bemarkinger  
+7 plot vejstatus som komunevej og hvor mange der har rettedato 2016-03-29 og bemarkinger  
