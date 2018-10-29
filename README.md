@@ -11,8 +11,10 @@ https://data.kk.dk/dataset/parkeringspladser/resource/b1d84794-8262-4fd9-9346-db
 
 3 hvilken p-plads har flest p-plader
 
-4 hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
+4 find all p-pladers der har oprettelsesdato 2015 10 -29 eller sener 
 
-5 plot hvliken by-del der har flest p-pladser
+5 hvad er forskellen melem den by-del der flest Privat p-pladser og den der mindst
 
-6 plot hvilken by-del er der flest privat p-pladser 
+6 plot antalet af p-pladser per by-del 
+
+7 plot hvilken by-del er der flest privat p-pladser 
